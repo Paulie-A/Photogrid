@@ -1,0 +1,67 @@
+img {
+	max-width: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 10px;
+
+}
+
+h1	{
+	font-family: dosis,  cursive;
+	margin-left: 1.66%;
+	font-size: 60px;
+	font-weight: 500;
+	text-transform: uppercase;
+	border-bottom: 3px solid #f1f1f1;
+	max-width: 96.6%;
+	padding-bottom: 20px;
+}
+
+p 	{
+font-family: dosis;
+	margin-left: 1.66%;
+	font-size: 18px;
+	font-weight: 400;
+	text-transform: uppercase;
+
+}
+
+.footer {
+	max-width: 96.6%;
+	font-size: 16px;
+}
+
+
+.icons {
+	float: right;
+	margin-right: 1.66%;
+	letter-spacing: 5px;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: #00aced;
+}
+
+.instagram:hover {
+	color: #dd2a7b;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+
+
+
+
