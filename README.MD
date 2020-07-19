@@ -1,4 +1,6 @@
-This is a project which I coded whilst studying Colt Steel's Web Development Bootcamp.
+# Photoblog
+
+Photoblog is a project which I coded whilst studying Colt Steel's Web Development Bootcamp.
 
 The project is a simple photographic blog which displays images in CSS grids.
 
